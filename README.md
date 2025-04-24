@@ -56,7 +56,7 @@ To run the Vaultwise application locally, you need to have the following softwar
 ## Installation Guide
 
 1. Clone the repository:  
-   `https://github.com/KgaladiTumisoSekgoka/TeamCollaboration-Vaultwise.git`
+   `https://github.com/KgaladiTumisoSekgoka/TeamCollaboration-Vaultwise.git` OR https://github.com/IIEMSA/opsc6311-poe-part-2-group1-Vimbai-Monica
 2. Open in Android Studio  
 3. Allow Gradle to sync all dependencies  
 4. Connect an Android device or emulator  
